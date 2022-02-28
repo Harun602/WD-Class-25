@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.user-form{}
+.user-form h1{
+    text-align: center;
+}
+
+.user-form button{
+}
+
+.user-form-butons{
+    display: flex;
+    justify-content: center;
+}
+.user-form-butons button{
+    margin: 10px;
+}
+
+
+.registration-and-login-form{
+    margin: 30px 35%;
+}
+.registration-and-login-form .registration-form{
+    display: none;
+}
+.registration-and-login-form .registration-form h2{
+    text-align: center;
+}
+.registration-and-login-form .registration-form input{
+    margin: 5px 0px;
+}
+
+.registration-and-login-form .login-form{
+    display: none;
+}
+.registration-and-login-form .login-form h2{
+    text-align: center;
+}
+
+.registration-and-login-form .login-form input{
+    margin: 5px 0px;
+}
